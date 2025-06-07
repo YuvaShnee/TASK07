@@ -3,7 +3,7 @@
 
 🎯 Objective:
 
-Use Support Vector Machines for linear and non-linear classification on a binary dataset (Breast Cancer dataset).
+Use Support Vector Machines for linear and non-linear classification on a binary dataset (indian patient record) dataset).
 
 🛠️ Tools & Libraries Used:
 
